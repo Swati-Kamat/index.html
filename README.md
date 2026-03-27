@@ -1,5 +1,5 @@
 
-☆ An HTML registration form is a structured set of elements used to collect user input on a webpage. It is defined by the <form> tag, which acts as a       container for all input fields, buttons, and other related components. 
+☆ An HTML registration form is a structured set of elements used to collect user input on a webpage. It is defined by the <form> tag, which acts as a     container for all input fields, buttons, and other related components. 
 
 ☆ Core Theory and Elements:
   <form> tag: The fundamental element that defines the form. It has key attributes:
